@@ -11,7 +11,7 @@ We build open infrastructure to help developers verify, debug, and monitor Agent
 | Utility | Description | Status |
 | :--- | :--- | :--- |
 | **[UCPChecker.com](https://ucpchecker.com)** | The community directory and live debugger. | 🟢 **Live** |
-| **Browser Extension** | **UCP Checker & Agent Debugger**<br>Detect manifests, surface agent-readiness signals, and feed anonymous uptime stats to the community. | 🟡 *Under Review* |
+| **[Browser Extension](https://chromewebstore.google.com/detail/ucp-checker-agent-debugge/dbanbolebapmmjmeemhbddkelocjaolh?hl=en)** | **UCP Checker & Agent Debugger**<br>Detect manifests, surface agent-readiness signals, and feed anonymous uptime stats to the community. | 🟢 **Live** |
 
 ---
 
