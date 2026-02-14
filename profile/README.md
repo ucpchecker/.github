@@ -8,18 +8,21 @@ We build open infrastructure to help developers verify, debug, and monitor Agent
 
 ### 🚀 **Ecosystem Utilities**
 
-| Utility | Description | Status |
-| :--- | :--- | :--- |
-| **[UCPChecker.com](https://ucpchecker.com)** | The community directory and live debugger. | 🟢 **Live** |
-| **[Browser Extension](https://chromewebstore.google.com/detail/ucp-checker-agent-debugge/dbanbolebapmmjmeemhbddkelocjaolh?hl=en)** | **UCP Checker & Agent Debugger**<br>Detect manifests, surface agent-readiness signals, and feed anonymous uptime stats to the community. | 🟢 **Live** |
-| **[MCP Server](https://ucpchecker.com/mcp)** | **Model Context Protocol Server**<br>Let AI agents check UCP status programmatically. Agent-to-Tool compatibility for agentic workflows. | 🟢 **Live** |  
-
+ | Utility | Description | Status |                                                                                                                 
+  | :--- | :--- | :--- |                                                                                
+  | **[UCPChecker.com](https://ucpchecker.com)** | The community directory and live debugger. | 🟢 **Live** |
+  | **[Playground](https://ucpchecker.com/playground)** | **Interactive UCP Playground**<br>Browse catalogs, test checkout flows, and inspect
+  MCP/REST transports against any UCP-enabled merchant in real time. | 🟢 **Live** |
+  | **[Browser Extension](https://chromewebstore.google.com/detail/ucp-checker-agent-debugge/dbanbolebapmmjmeemhbddkelocjaolh?hl=en)** | **UCP
+  Checker & Agent Debugger**<br>Detect manifests, surface agent-readiness signals, and feed anonymous uptime stats to the community. | 🟢 **Live** |
+  | **[MCP Server](https://ucpchecker.com/mcp)** | **Model Context Protocol Server**<br>Let AI agents check UCP status programmatically.
+  Agent-to-Tool compatibility for agentic workflows. | 🟢 **Live** |
 ---
 
 ### 📊 **Live Ecosystem Stats**
 *Tracking the adoption of Agent Commerce.*
 
-* **Verified Merchants:** 906+
+* **Verified Merchants:** 1,006+
 * **Top Platform:** Shopify
 * **Average Latency:** 142ms
 
