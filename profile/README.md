@@ -18,7 +18,7 @@ We build open infrastructure to help developers verify, debug, and monitor Agent
 ### 📊 **Live Ecosystem Stats**
 *Tracking the adoption of Agent Commerce.*
 
-* **Verified Merchants:** 2,800+
+* **Verified Merchants:** 3,000+
 * **Top Platform:** Shopify
 * **Average Latency:** 142ms
 
