@@ -19,6 +19,7 @@ We build open infrastructure to help developers verify, debug, and monitor Agent
 | **[API & MCP Docs](https://ucpchecker.com/docs)** | Connect any agent in one snippet — keyless MCP server (check domains, find verified stores, search live catalogs, get checkout links), REST API, ARD discovery, rate limits, score methodology & versioning. | 🟢 **Live** |
 | **[MCP Server](https://ucpchecker.com/docs#mcp-server)** | `https://ucpchecker.com/mcp` — Model Context Protocol server: 10 tools reflected in the docs; listed in the official MCP Registry as `com.ucpchecker/ucp-checker` and on Smithery. | 🟢 **Live** |
 | **[Agent Finder (ARD)](https://ucpchecker.com/docs#post-ard-search)** | Agentic Resource Discovery service over verified UCP storefronts — `POST /ard/search`, manifest at `/.well-known/ai-catalog.json`. Passes the ARD conformance suite. | 🟢 **Live** |
+| **[CLI: ucp-check](https://github.com/ucpchecker/ucp-check)** | `npx ucp-check <domain>` — the same verdict as the status page, from a terminal or CI, as an exit code (`0` verified · `1` not · `2` usage · `3` API). Zero dependencies, no key; on [npm](https://www.npmjs.com/package/ucp-check). | 🟢 **Live** |
 | **[Agent Skills](https://github.com/ucpchecker/ucp-checker-skills)** | `ucp-checker` (find and shop verified stores) and `ucp-agent-ready` (make a store agent-ready) — served live at `/.well-known/agent-skills/`, mirrored here, published on Smithery. | 🟢 **Live** |
 
 ### 📊 **Live Ecosystem Stats**
