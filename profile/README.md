@@ -16,9 +16,9 @@ We build open infrastructure to help developers verify, debug, and monitor Agent
 | **[Developer Tools](https://ucpchecker.com/developer-tools)** | The builder hub — APIs, SDKs, score badges, manifest endpoint reference, and downloadable datasets. | 🟢 **Live** |
 | **[Playground](https://ucpplayground.com/)** | Interactive UCP Playground — browse catalogs, test checkout flows, and inspect MCP/REST transports against any UCP-enabled merchant. | 🟢 **Live** |
 | **[Browser Extension](https://chromewebstore.google.com/detail/ucp-checker-agent-debugge/dbanbolebapmmjmeemhbddkelocjaolh?hl=en)** | UCP Checker & Agent Debugger — detect manifests, surface agent-readiness signals, and feed anonymous uptime stats to the community. | 🟢 **Live** |
-| **[API & MCP Docs](https://ucpchecker.com/docs)** | Connect any agent in one snippet — keyless MCP server (check domains, find verified stores, search live catalogs, get checkout links), REST API, ARD discovery, rate limits, score methodology & versioning. | 🟢 **Live** |
-| **[MCP Server](https://ucpchecker.com/docs#mcp-server)** | `https://ucpchecker.com/mcp` — Model Context Protocol server: 10 tools reflected in the docs; listed in the official MCP Registry as `com.ucpchecker/ucp-checker` and on Smithery. | 🟢 **Live** |
-| **[Agent Finder (ARD)](https://ucpchecker.com/docs#post-ard-search)** | Agentic Resource Discovery service over verified UCP storefronts — `POST /ard/search`, manifest at `/.well-known/ai-catalog.json`. Passes the ARD conformance suite. | 🟢 **Live** |
+| **[API & MCP Docs](https://ucpchecker.com/docs)** | Connect any agent in one snippet — keyless MCP server (check domains, find verified stores, search live catalogs, then shop at the store directly), REST API, ARD discovery, rate limits, score methodology & versioning. | 🟢 **Live** |
+| **[MCP Server](https://ucpchecker.com/docs#mcp-server)** | `https://ucpchecker.com/mcp` — Model Context Protocol server: 8 tools reflected in the docs; listed in the official MCP Registry as `com.ucpchecker/ucp-checker` and on Smithery. | 🟢 **Live** |
+| **[Agent Finder (ARD)](https://ucpchecker.com/docs#post-ard-search)** | Agentic Resource Discovery service over verified UCP storefronts — `POST /ard/search`, canonical /.well-known/ard.json; could add that it covers every verified storefront (~17k), labelled by evidence | 🟢 **Live** |
 | **[CLI: ucp-check](https://github.com/ucpchecker/ucp-check)** | `npx ucp-check <domain>` — the same verdict as the status page, from a terminal or CI, as an exit code (`0` verified · `1` not · `2` usage · `3` API). Zero dependencies, no key; on [npm](https://www.npmjs.com/package/ucp-check). | 🟢 **Live** |
 | **[Agent Skills](https://github.com/ucpchecker/ucp-checker-skills)** | `ucp-checker` (find and shop verified stores) and `ucp-agent-ready` (make a store agent-ready) — served live at `/.well-known/agent-skills/`, mirrored here, published on Smithery. | 🟢 **Live** |
 
@@ -34,6 +34,6 @@ We build open infrastructure to help developers verify, debug, and monitor Agent
 ---
 
 ### **About**
-UCP Checker is an independent project dedicated to accelerating the adoption of the Universal Commerce Protocol. We provide neutral, third-party validation to ensure interoperability between Agents (Google/OpenAI) and Merchants.
+UCP Checker is an independent project dedicated to accelerating the adoption of the Universal Commerce Protocol. We provide neutral, third-party validation to ensure interoperability between any Agent platform and Merchants.
 
 _Maintained by the UCP Checker Team._
